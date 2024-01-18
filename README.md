@@ -52,10 +52,12 @@ Kemampuan perangkat IoT untuk beradaptasi dengan perubahan lingkungan dan kebutu
 
 ## Contoh Implementasi IoT
 
-#### Smart Home
-Menggunakan sensor untuk mengontrol dan memantau perangkat rumah tangga seperti lampu, AC, dan keamanan rumah.
-#### Kesehatan Digital 
-Perangkat medis yang terhubung untuk pemantauan pasien jarak jauh dan pemantauan kondisi kesehatan.
-#### Industri Pintar 
-Otomatisasi pabrik menggunakan sensor dan sistem IoT untuk meningkatkan efisiensi produksi.
+#### Smart Lighting/Smart Lamp
+Menggunakan lampu yang terhubung dengan sistem IoT untuk mengatur intensitas cahaya, warna, dan waktu penyalaan secara otomatis berdasarkan preferensi atau keberadaan penghuni.
+
+#### Smart Thermostats
+Termostats yang dapat diatur secara otomatis untuk mengontrol suhu rumah berdasarkan jadwal harian atau deteksi keberadaan penghuni, memberikan efisiensi energi.
+
+#### Smart Security Systems(CCTV/Sensor Pintu)
+Sistem keamanan yang terintegrasi dengan IoT, seperti kamera pintar, sensor pintu/jendela, dan peringatan otomatis, memungkinkan pemantauan jarak jauh dan respons cepat terhadap kejadian yang mencurigakan.
  

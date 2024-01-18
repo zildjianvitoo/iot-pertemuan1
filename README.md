@@ -52,9 +52,6 @@ Kemampuan perangkat IoT untuk beradaptasi dengan perubahan lingkungan dan kebutu
 
 ## Contoh Implementasi IoT
 
-#### Smart Lighting/Smart Lamp
-Menggunakan lampu yang terhubung dengan sistem IoT untuk mengatur intensitas cahaya, warna, dan waktu penyalaan secara otomatis berdasarkan preferensi atau keberadaan penghuni.
-
 #### Smart Thermostats
 Termostats yang dapat diatur secara otomatis untuk mengontrol suhu rumah berdasarkan jadwal harian atau deteksi keberadaan penghuni, memberikan efisiensi energi.
 

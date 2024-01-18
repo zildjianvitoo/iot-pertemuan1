@@ -1,3 +1,4 @@
+![IMG_0998](https://github.com/zildjianvitoo/iot-pertemuan1/assets/106888051/50f7ed68-cdce-49de-8499-f283a96e4705)
 # Internet of Things (IoT)
 
 ## Sejarah (1980-2022)
